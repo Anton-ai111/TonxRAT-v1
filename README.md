@@ -19,7 +19,7 @@ git clone https://github.com/Anton-ai111/TonxRAT-v1.git
 
 1. Run the script with Python:
 ```bash
-python rat_builder.py
+python rat.py
 ```
 
 2. Enter your information when prompted:
